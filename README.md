@@ -24,7 +24,6 @@ Carry = AB + ACin + BCin
 
 ![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
 
-**Figure -1 FULL ADDER**
 
 **Full Subtractor**
 
@@ -38,9 +37,26 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+FULL ADDER
+
+![Screenshot 2025-05-02 133430](https://github.com/user-attachments/assets/a1bd1c3a-54ef-4660-9ce4-6ffbd0a1bcb2)
+
+FULL SUBRACTOR
+
+![Screenshot 2025-05-02 133445](https://github.com/user-attachments/assets/547bf3f6-aca5-407b-b446-b4c8561d4cc7)
+
+
 **Procedure**
 
-Write the detailed procedure here
+1.Type the program in Quartus software.
+
+2.Compile and run the program.
+
+3.Generate the RTL schematic and save the logic diagram.
+
+4.Create nodes for inputs and outputs to generate the timing diagram.
+
+5.For different input combinations generate the timing diagram.
 
 **Program:**
 
@@ -48,10 +64,12 @@ Write the detailed procedure here
 ![Screenshot 2025-04-24 192750](https://github.com/user-attachments/assets/73a2ffdd-f3c9-4f01-9476-136231ff9ea0)
 
 **RTL Schematic**
+
 ![Screenshot 2025-04-24 192826](https://github.com/user-attachments/assets/3bd802f5-ca0c-46c3-9a5a-e376bccfb7ab)
 ![Screenshot 2025-04-24 192851](https://github.com/user-attachments/assets/47e91f2c-b2b3-494c-a19b-8f858778417d)
 
 **Output Timing Waveform**
+
 ![Screenshot 2025-04-24 192926](https://github.com/user-attachments/assets/2915e323-8696-42c6-b70e-64c9abc52db4)
 ![Screenshot 2025-04-24 192957](https://github.com/user-attachments/assets/220d4cb0-1214-4221-97b3-b20d83bf66ef)
 
